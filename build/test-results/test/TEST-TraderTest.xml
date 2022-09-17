@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TraderTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-09-17T02:11:55" hostname="LAPTOP-Q425K8M3" time="0.005">
+  <properties/>
+  <testcase name="TestEmptyConstructor" classname="TraderTest" time="0.003"/>
+  <testcase name="TestAddToWishlist" classname="TraderTest" time="0.002"/>
+  <testcase name="TestGetSellingPrice" classname="TraderTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
